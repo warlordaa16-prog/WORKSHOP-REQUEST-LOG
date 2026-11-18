@@ -1,0 +1,6 @@
+{
+  "name": "WorkshopLog",
+  "description": "Workshop Request & Job Management System for submitting worksheets, assigning technicians, logging reports, managing approvals, and tracking facility maintenance costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
